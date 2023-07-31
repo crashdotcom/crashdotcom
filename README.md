@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hii
+I'm **crash (!!)** and I'm a college student studying computer science. I'm still learning, so I'm using this page to test things and mess around.
 
 <!--
 **crashdotcom/crashdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
