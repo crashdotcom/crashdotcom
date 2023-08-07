@@ -1,5 +1,5 @@
 ### Hii
-I'm **crash (!!)** and i'm SUUUUUPER cool and awesome.
+I'm **crash (!!)** nice 2 meet u...
 
 <!--
 **crashdotcom/crashdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
