@@ -1,5 +1,6 @@
-### Hii
-I'm **crash (!!)** nice 2 meet u...
+### Hello
+
+I'm Jay; studying computer science at Berkeley. Current pet project: interactive fiction game (engine) (like Inform, but from the ground up). Ask me about social graph networks and screen color representation.
 
 <!--
 **crashdotcom/crashdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
